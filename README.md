@@ -6,5 +6,7 @@ i need something cool to put on my resumé, and I also want to implement AI in o
 plans/things to learn and use:
 - mongodb
 - express.js
-- use docker (possibly kubernetes)
+- use docker (and possibly kubernetes)
+  - multiple services: web app, database, learning thing
 - tensorflow or scikit-learn
+- publish on heroku (or a personal server if i have the money for that)
